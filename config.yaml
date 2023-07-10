@@ -1,0 +1,8 @@
+language: en-US
+messagesPath: src/messages/messages
+tcpPorts:
+  - 3000
+  - 5000
+udpPorts:
+  - 1234
+  - 5678
