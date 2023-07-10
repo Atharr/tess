@@ -37,7 +37,7 @@ Occasionally, there arises a need to diagnose network connectivity issues on a d
 
 The server can be configured using the `config.yaml` file located in the project root directory. You can modify the following properties:
 
-* `language` (optional): The language code for error messages. Default value is `en`.
+* `language` (optional): The language code for error messages. Default value is `en-US`.
 * `messagesPath` (optional): The path to the directory containing the message YAML files. Default value  is `messages`.
 * `tcpPorts` (array): An array of TCP port numbers to listen on.
 * `tcpPorts`  (array): An array of UDP port numbers to listen on.
@@ -94,4 +94,4 @@ These are just a couple of examples, but there are numerous tools and libraries 
 Contributions are welcome! If you find any issues or want to add new features, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/license/mit/).
+This project is licensed under the [MIT License](https://github.com/Atharr/tess/blob/main/LICENSE).
